@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto PristLinks" src=".github/print.jpg" width="100%">
+  <img alt="projeto PristLinks" src=".github/assets/print.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
