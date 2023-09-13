@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O PristLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://leonardobdantas.github.io/pristlinks)
+- [Acesse o projeto finalizado, online](https://leonardobdantas.github.io/PristLinks)
 
 Esse projeto está sob a licença MIT.
 
